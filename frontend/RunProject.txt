@@ -1,0 +1,9 @@
+#Backend
+command prompt
+cd MERN-project-backend
+npm install
+npm run server
+
+#Frontend
+command prompt
+npm start
