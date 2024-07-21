@@ -15,6 +15,5 @@
 # Stack
 - React  
 - Tailwind
-- Redux
 
 
